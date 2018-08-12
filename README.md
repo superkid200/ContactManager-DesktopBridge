@@ -40,6 +40,7 @@ NOTE: If you want to open the sln file correctly, you need Visual Studio 2017 ve
 | DataGridView    | Anchor | All |
 | DataGridView    |Name|dgView
 | Button      | Name      |   btnSave |
+| Button      | Anchor    |   Bottom Right|
 
 4. Add this code to Form1.cs in Code view inside the Form1 class
 
