@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Source>E:\ImgSec\desktopBridge.png</Source>
+    <SmallTileSource>E:\ImgSec\desktopBridge.png</SmallTileSource>
+    <MediumTileSource>E:\ImgSec\desktopBridge.png</MediumTileSource>
+    <WideTileSource>E:\ImgSec\desktopBridge.png</WideTileSource>
+    <LargeTileSource>E:\ImgSec\desktopBridge.png</LargeTileSource>
+    <AppIconSource>E:\ImgSec\desktopBridge.png</AppIconSource>
+    <SplashScreenSource>E:\ImgSec\desktopBridge.png</SplashScreenSource>
+    <PackageLogoSource>E:\ImgSec\desktopBridge.png</PackageLogoSource>
+  </PropertyGroup>
+</Project>
